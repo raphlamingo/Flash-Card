@@ -1,0 +1,9 @@
+
+FRENCH:ville, ENGLISH:city
+FRENCH:droit, ENGLISH:law
+FRENCH:devrait, ENGLISH:should
+FRENCH:sois, ENGLISH:be
+FRENCH:jouer, ENGLISH:to play
+FRENCH:devrait, ENGLISH:should
+FRENCH:partie, ENGLISH:part
+FRENCH:eau, ENGLISH:water
